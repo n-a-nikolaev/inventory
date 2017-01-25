@@ -1,0 +1,16 @@
+[{
+    id: 1000,
+    title: 'Антибиотици',
+    photo: 'http://pelfind.me/images/187714/paintings-of-nature-1th.jpg',
+    description: 'Excepteur tempor veniam nulla velit Lorem minim. Aute ex mollit mollit occaecat commodo id in in. Esse aute sint minim ipsum reprehenderit dolor incididunt duis pariatur sunt aliquip ex ipsum aute. Sint laboris minim Lorem aliquip dolor. Cillum deserunt cupidatat ullamco amet proident elit dolore minim.'
+}, {
+    id: 1001,
+    title: 'Пробиотици',
+    photo: 'http://descargarfulltorrent.com/wp-content/uploads/2016/11/descargar-lego-batman-la-pelicula-torrent-300x230.jpg',
+    description: 'Ullamco velit cillum cillum non in sunt. Eu aliqua adipisicing esse fugiat in cupidatat aliqua laboris. Do id id commodo tempor pariatur occaecat nulla esse aliqua. Anim eu incididunt nulla proident exercitation tempor ipsum duis. Laborum et nostrud laboris nulla laborum culpa tempor reprehenderit ad. Lorem labore ea dolor dolor esse ut eu ullamco ea exercitation.'
+}, {
+    id: 1002,
+    title: 'ОТС продукти',
+    photo: 'http://www.museum.tv/oldsite/httpdocs/archives/etv/S/htmlS/spaceprogram/spaceprogramIMAGE/spaceprogram.jpg',
+    description: 'Consectetur do voluptate anim aliquip magna esse dolor quis nulla consequat. Ad ipsum Lorem officia est cillum. Velit tempor cupidatat sunt eu commodo qui aute in non consequat. Ipsum ipsum in reprehenderit fugiat sit. Incididunt occaecat exercitation duis adipisicing officia excepteur. Lorem Lorem eiusmod consequat fugiat culpa.'
+}];
