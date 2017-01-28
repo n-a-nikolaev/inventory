@@ -31,22 +31,22 @@
         "label": "Organization",
         "subtypes": [{
             "id": 108,
-            "label": "Institution",
+            "label": "Institution"
         }, {
             "id": 109,
-            "label": "Professional organization",
+            "label": "Professional organization"
         }, {
             "id": 110,
-            "label": "Medical educational facility",
+            "label": "Medical educational facility"
         }, {
             "id": 111,
-            "label": "Scientific society",
+            "label": "Scientific society"
         }, {
             "id": 112,
-            "label": "Non-government organization",
+            "label": "Non-government organization"
         }, {
             "id": 113,
-            "label": "Holding",
+            "label": "Holding"
         }]
     }, {
         "id": 52,
@@ -69,7 +69,7 @@
         "label": "Pharmacy / Optics",
         "subtypes": [{
             "id": 117,
-            "label": "Pharmacy",
+            "label": "Pharmacy"
         }, {
             "id": 118,
             "label": "Optic"
@@ -99,12 +99,12 @@
         "label": "Service",
         "subtypes": [{
             "id": 123,
-            "label": "Activities",
+            "label": "Activities"
         }, {
             "id": 124,
-            "label": "Services",
+            "label": "Services"
         }, {
             "id": 125,
-            "label": "Services of medical facilities",
+            "label": "Services of medical facilities"
         }]
     }]
